@@ -12,3 +12,4 @@
 - [Slavisa Djukic](https://github.com/sdjukic)
 - [Tony Zheng](https://github.com/tonyzheng6)
 - [Victoria Zhong](https://github.com/SemicolonExpected)
+- [Yarley Geffrard](https://github.com/ygeffrard)
