@@ -1,4 +1,14 @@
-#Before you contribute
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
+**Table of Contents**
+
+- [Before you contribute in the FB group](#before-you-contribute-in-the-fb-group)
+- [Github of Hunter CS students (alphabetical by first name)](#github-of-hunter-cs-students-alphabetical-by-first-name)
+
+<!-- markdown-toc end -->
+
+
+
+#Before you contribute in the FB group
 
 Asking questions here is fine...but when you ask questions here and anywhere on the Internet to avoid people from getting angry with you, heed the advice laid out in http://www.catb.org/esr/faqs/smart-questions.html
 
@@ -21,7 +31,7 @@ Read the following: http://on.fb.me/1AWM8IF, http://on.fb.me/1At7YFj, http://on.
 - [Andrew Joseph Baumann](https://github.com/andrewjbaumann)
 - [Bjorn Johnson](https://github.com/Bjornkjohnson)
 - [Christian Diaz](https://github.com/CHDiaz)
-- [Damien Glinojecki](http://github.com/glinojecki)
+- [Damian Glinojecki](http://github.com/glina126)
 - [Gabriela Voll](https://github.com/gato333)
 - [Gil Dekel](https://github.com/stagadish)
 - [Grace L](https://github.com/GracieCoding)
