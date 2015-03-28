@@ -3,7 +3,7 @@
 - [Andrew Joseph Baumann](https://github.com/andrewjbaumann)
 - [Bjorn Johnson](https://github.com/Bjornkjohnson)
 - [Christian Diaz](https://github.com/CHDiaz)
-- [Damien Glinojecki](http://github.com/glinojecki)
+- [Damian Glinojecki](http://github.com/glina126)
 - [Gabriela Voll](https://github.com/gato333)
 - [Gil Dekel](https://github.com/stagadish)
 - [Grace L](https://github.com/GracieCoding)
