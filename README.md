@@ -7,6 +7,7 @@
 - [Gabriela Voll](https://github.com/gato333)
 - [Gil Dekel](https://github.com/stagadish)
 - [Grace L](https://github.com/GracieCoding)
+- [Katherine Sullivan](https://github.com/katms)
 - [Marcin](https://github.com/hak8or)
 - [Nick Critser](https://github.com/n-critser)
 - [Omar Evans](http://github.com/CodeOmar)
