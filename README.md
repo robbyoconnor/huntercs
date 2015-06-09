@@ -33,6 +33,7 @@ Read the following: http://on.fb.me/1AWM8IF, http://on.fb.me/1At7YFj, http://on.
 - [Christian Diaz](https://github.com/CHDiaz)
 - [Damian Glinojecki](http://github.com/glina126)
 - [Gabriela Voll](https://github.com/gato333)
+- [Gordon Zheng](https://github.com/capablemonkey)
 - [Gil Dekel](https://github.com/stagadish)
 - [Grace L](https://github.com/GracieCoding)
 - [Katherine Sullivan](https://github.com/katms)
