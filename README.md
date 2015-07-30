@@ -1,11 +1,9 @@
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again --<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
 - [Before you contribute in the FB group](#before-you-contribute-in-the-fb-group)
+- [Online Education Resources](#online-education-resources)
 - [Github of Hunter CS students (alphabetical by first name)](#github-of-hunter-cs-students-alphabetical-by-first-name)
-
-<!-- markdown-toc end -->
-
 
 
 #Before you contribute in the FB group
@@ -25,6 +23,15 @@ SSH (remote access to eniac/G-lab) Configuration HOWTO: https://gist.github.com/
 If textbook editions have changed, message me and I will upload the new edition, brownie points for sending me the PDF or a torrent link to the PDF and I will upload it to the MEGA I maintain...I will continue to maintain it.
 
 Read the following: http://on.fb.me/1AWM8IF, http://on.fb.me/1At7YFj, http://on.fb.me/1FEHKzT and http://on.fb.me/1F8Cw2r
+
+#Online Education Resources
+- http://blog.agupieware.com/…/online-learning-bachelors-leve…
+- http://cousera.com
+- http://edx.org
+- http://www.freecodecamp.com/
+- http://www.nypl.org/collections/articles-databases/lyndacom
+- https://www.thenewboston.com/videos.php
+- http://udacity.com
 
 #Github of Hunter CS students (alphabetical by first name)
 - [Alex Rosario](https://github.com/apollolux)
