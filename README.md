@@ -51,5 +51,6 @@ Read the following: http://on.fb.me/1AWM8IF, http://on.fb.me/1At7YFj, http://on.
 - [Simon Ayzman](https://github.com/simonayzman)
 - [Slavisa Djukic](https://github.com/sdjukic)
 - [Tony Zheng](https://github.com/tonyzheng6)
+- [Victor Cabrera](https://github.com/Victor-Cabrera)
 - [Victoria Zhong](https://github.com/SemicolonExpected)
 - [Yarley Geffrard](https://github.com/ygeffrard)
