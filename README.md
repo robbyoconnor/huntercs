@@ -36,6 +36,7 @@ Read the following: http://on.fb.me/1AWM8IF, http://on.fb.me/1At7YFj, http://on.
 #Github of Hunter CS students (alphabetical by first name)
 - [Alan Solitar](http://github.com/Alan-Solitar) 
 - [Alex Rosario](https://github.com/apollolux)
+- [Ameya Pednekar](https://github.com/Apedneka)
 - [Andrew Joseph Baumann](https://github.com/andrewjbaumann)
 - [Bjorn Johnson](https://github.com/Bjornkjohnson)
 - [Christian Diaz](https://github.com/CHDiaz)
